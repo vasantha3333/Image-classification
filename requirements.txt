@@ -1,4 +1,4 @@
-
+skimage==0.16.2
 scikit_learn==0.24.1
 streamlit==0.79.0
 
