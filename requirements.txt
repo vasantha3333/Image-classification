@@ -1,4 +1,4 @@
 
 scikit_learn==0.24.1
 streamlit==0.79.0
-python==3.7.0
+python==3.7.10
